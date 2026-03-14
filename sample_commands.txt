@@ -1,0 +1,20 @@
+Wake word: "nova" (configurable)
+
+General
+- nova help
+- nova stop
+
+Open apps / sites
+- nova open chrome
+- nova open youtube
+- nova open notepad
+- nova open calculator
+- nova open file explorer
+
+Search
+- nova search for scholarships in sweden
+- nova google concrete 3d printing mix design
+
+Time / Date
+- nova what is the time
+- nova tell me the date
